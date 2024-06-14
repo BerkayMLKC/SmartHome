@@ -9,7 +9,7 @@ Temperature Sensor
 Password-Lock System
 
 # Report
-You can review the project report [here](SmartHome.pdf).
+You can review the project report [here](Arduino.pdf).
 
 # Project Summary
 Our project involved creating a smart home system simulation. Various sensors were integrated using Arduino Mega 2560 and simulated via Proteus. The project included:
